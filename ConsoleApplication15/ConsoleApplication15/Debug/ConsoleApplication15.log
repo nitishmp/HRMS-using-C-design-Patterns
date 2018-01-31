@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(107): warning C4101: 'x': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(108): warning C4101: 'redo': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(221): warning C4102: 'lebel': unreferenced label
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(245): warning C4102: 'lebel1': unreferenced label
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(219): warning C4101: 'redo2': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(219): warning C4101: 'redo1': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(369): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(326): warning C4101: 'doMore': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(476): warning C4101: 'temp2': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(477): warning C4101: 'temp': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(477): warning C4101: 'temp1': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(529): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\source.cpp(563): warning C4101: 'operation': unreferenced local variable
+c:\users\nitish m.p\documents\visual studio 2015\projects\consoleapplication15\consoleapplication15\login.h(52): warning C4715: 'login': not all control paths return a value
+  ConsoleApplication15.vcxproj -> C:\Users\Nitish M.P\documents\visual studio 2015\Projects\ConsoleApplication15\Debug\ConsoleApplication15.exe
